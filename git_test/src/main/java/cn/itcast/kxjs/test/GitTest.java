@@ -4,13 +4,13 @@ public class GitTest {
     public static void main(String[] args) {
 
 
-        System.out.println("daaaaaaaaaaa");
-        System.out.println("daaaaaaaaaaa");
-        System.out.println("daaaaaaaaaaa");
-        System.out.println("daaaaaaaaaaa");
-        System.out.println("daaaaaaaaaaa");
-        System.out.println("daaaaaaaaaaa");
-        System.out.println("daaaaaaaaaaa");
+        System.out.println("saoaxu");
+        System.out.println("daaa");
+        System.out.println("daaa");
+        System.out.println("daaa");
+        System.out.println("daaa");
+        System.out.println("daaa");
+        System.out.println("daaa");
 
     }
 }
