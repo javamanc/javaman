@@ -14,4 +14,10 @@ public class GitTest {
         System.out.println("李扬洋大傻蛋");
 
     }
+
+    public void zk(){
+
+
+        System.out.println("zk");
+    }
 }
