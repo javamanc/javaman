@@ -13,4 +13,10 @@ public class GitTest {
         System.out.println("dsadfasfas");
 
     }
+
+    public void zk(){
+
+
+        System.out.println("zk");
+    }
 }
