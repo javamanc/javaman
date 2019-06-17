@@ -5,12 +5,12 @@ public class GitTest {
 
 
         System.out.println("saoaxu");
-        System.out.println("daaa");
-        System.out.println("daaa");
-        System.out.println("daaa");
-        System.out.println("daaa");
-        System.out.println("daaa");
-        System.out.println("daaa");
+        System.out.println("da");
+        System.out.println("da");
+        System.out.println("da");
+        System.out.println("da");
+        System.out.println("da");
+        System.out.println("da");
 
     }
 }
